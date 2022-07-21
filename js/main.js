@@ -43,3 +43,14 @@ let b = String(2);
 let c = "белых медведей";
 let s = a + b + " "+c;
 console.log(s);
+
+//Task 5
+
+let  words_1='доступ';
+let  words_2='морпех';
+let words_3='наледь';
+let words_4='попрек';
+let words_5='рубило';
+
+let lengthWords=words_1+words_2+words_3+words_4+words_5;
+console.log(`${lengthWords} ${lengthWords.length}`);
