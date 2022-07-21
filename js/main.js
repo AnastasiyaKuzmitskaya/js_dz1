@@ -35,3 +35,11 @@ console.log(+userName);
 
 let userNameNumber=Number(userName); 
 console.log(userNameNumber); 
+
+//Task 4
+
+let a =String(1);
+let b = String(2);
+let c = "белых медведей";
+let s = a + b + " "+c;
+console.log(s);
