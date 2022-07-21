@@ -54,3 +54,15 @@ let words_5='рубило';
 
 let lengthWords=words_1+words_2+words_3+words_4+words_5;
 console.log(`${lengthWords} ${lengthWords.length}`);
+
+//Task 7
+
+let nameUser = prompt('Enter your name:');
+let ageUser = prompt('Enter your age:');
+
+console.log(`Hello, ${nameUser}, Your age is ${ageUser}`);
+
+
+
+
+
