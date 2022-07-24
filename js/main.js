@@ -65,4 +65,17 @@ console.log(`Hello, ${nameUser}, Your age is ${ageUser}`);
 
 
 
+//Task 2_1
+let num_1= 4;
+let num_2= 3;
+console.log(num_1, num_2);
+
+num_1=num_1+num_2;
+num_2=num_1-num_2;
+num_1=num_1-num_2;
+
+console.log(num_1, num_2);
+
+
+
 
